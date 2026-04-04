@@ -1,0 +1,46 @@
+status file for recon-all
+Sat Apr  4 12:55:41 CEST 2026
+#@# Tessellate rh Sat Apr  4 12:55:41 CEST 2026
+#@# Smooth1 rh Sat Apr  4 12:55:43 CEST 2026
+#@# Inflation1 rh Sat Apr  4 12:55:45 CEST 2026
+#@# QSphere rh Sat Apr  4 12:55:52 CEST 2026
+#@# Fix Topology rh Sat Apr  4 12:56:32 CEST 2026
+#@# Smooth2 rh Sat Apr  4 13:00:28 CEST 2026
+#@# Inflation2 rh Sat Apr  4 13:00:30 CEST 2026
+#@# Curv .H and .K rh Sat Apr  4 13:00:38 CEST 2026
+#@# Sphere rh Sat Apr  4 13:01:16 CEST 2026
+#@# Surf Reg rh Sat Apr  4 13:02:39 CEST 2026
+#@# Jacobian white rh Sat Apr  4 13:04:59 CEST 2026
+#@# AvgCurv rh Sat Apr  4 13:04:59 CEST 2026
+#@# Cortical Parc rh Sat Apr  4 13:05:00 CEST 2026
+#@# white curv rh Sat Apr  4 13:09:40 CEST 2026
+#@# white area rh Sat Apr  4 13:09:41 CEST 2026
+#@# pial curv rh Sat Apr  4 13:09:42 CEST 2026
+#@# pial area rh Sat Apr  4 13:09:43 CEST 2026
+#@# thickness rh Sat Apr  4 13:09:43 CEST 2026
+#@# area and vertex vol rh Sat Apr  4 13:10:02 CEST 2026
+#@# Curvature Stats rh Sat Apr  4 13:10:03 CEST 2026
+#@# Cortical Parc 2 rh Sat Apr  4 13:10:05 CEST 2026
+#@# Cortical Parc 3 rh Sat Apr  4 13:10:15 CEST 2026
+#@# WM/GM Contrast rh Sat Apr  4 13:10:22 CEST 2026
+recon-all -s sub-v1s12x0050109_ses-1 finished without error at Sat Apr  4 13:10:24 CEST 2026
+
+
+
+#New# invocation of recon-all 
+
+
+
+status file for recon-all
+Sat Apr  4 13:15:46 CEST 2026
+#@# white curv rh Sat Apr  4 13:15:46 CEST 2026
+#@# white area rh Sat Apr  4 13:15:46 CEST 2026
+#@# pial curv rh Sat Apr  4 13:15:46 CEST 2026
+#@# pial area rh Sat Apr  4 13:15:46 CEST 2026
+#@# thickness rh Sat Apr  4 13:15:47 CEST 2026
+#@# area and vertex vol rh Sat Apr  4 13:15:47 CEST 2026
+#@# Parcellation Stats rh Sat Apr  4 13:15:47 CEST 2026
+#@# Parcellation Stats 2 rh Sat Apr  4 13:16:01 CEST 2026
+#@# Parcellation Stats 3 rh Sat Apr  4 13:16:08 CEST 2026
+#@# BA_exvivo Labels rh Sat Apr  4 13:16:15 CEST 2026
+recon-all -s sub-v1s12x0050109_ses-1 finished without error at Sat Apr  4 13:18:01 CEST 2026
